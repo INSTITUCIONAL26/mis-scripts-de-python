@@ -1,0 +1,25 @@
+{
+  "name": "validation-utils",
+  "version": "1.0.0",
+  "description": "A utility library for validating various input types such as DNI, dates, and emails.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "validation",
+    "dni",
+    "date",
+    "email"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "jest": "^27.0.0",
+    "@types/jest": "^27.0.0",
+    "ts-jest": "^27.0.0"
+  }
+}
