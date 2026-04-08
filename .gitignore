@@ -1,0 +1,21 @@
+# Ignorados comunes
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.venv
+venv/
+env/
+node_modules/
+dist/
+build/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
+
+# OneDrive temporary files
+~$*
